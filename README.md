@@ -24,6 +24,9 @@ A dynamic news website fetching real-time articles using **NewsAPI**. Built with
 - Personalized news preferences  
 - Offline access  
 
----
+# Output
 
-Let me know if you need further tweaks!
+![Screenshot 2024-12-24 180416](https://github.com/user-attachments/assets/41ae19c3-2e34-49e1-b034-cea93f00aa9c)
+
+![Screenshot 2024-12-24 180530](https://github.com/user-attachments/assets/6cb630a4-bb4f-424f-9538-c64cb362e4a0)
+
